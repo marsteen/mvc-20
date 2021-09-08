@@ -4,7 +4,7 @@
 ## Concepts
 ### Links
 * https://en.cppreference.com/w/cpp/concepts
-* https://en.cppreference.com/w/cpp/concepts
+* https://en.cppreference.com/w/cpp/compiler_support
 
 ## Modules
 ### Links
